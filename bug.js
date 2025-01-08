@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI and attempting to run an app that uses a feature or library not supported by the managed workflow. For example, using a native module that isn't compatible with Expo Go or modifying the underlying native code directly.
